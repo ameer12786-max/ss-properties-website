@@ -10,3 +10,7 @@ Desktop.ini
 
 # Logs
 *.log
+
+# Local content library (not deployed)
+Content/
+website/Content/
